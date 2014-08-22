@@ -8,7 +8,7 @@ def _import(fullpath):
 	filename, ext = os.path.splitext(filename)
 	sys.path.append(path)
 	module = __import__(filename)
-	del sys.path[-1]
+	sys.path.remove(path)
 	return module
 
 epub = _import(os.path.dirname(__file__)+'/epub')
