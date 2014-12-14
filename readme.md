@@ -16,4 +16,4 @@ To install, Install Package Control 2 First. See: <https://sublime.wbond.net/ins
 
 ### Source-code
 
-<https://github.com/SublimeText/ePub>
+<https://github.com/titoBouzout/ePub>
