@@ -1,4 +1,3 @@
-***[Sublime Text 3+](http://www.sublimetext.com/) Package. Install via an updated version of [Package Control 2+](https://sublime.wbond.net/installation). Just **DON'T** install manually.
 
 # ePub Reader
 
@@ -12,7 +11,7 @@ Python Epub - https://bitbucket.org/exirel/epub
 
 ### Installation
 
-To install, Install Package Control 2 First. See: <https://sublime.wbond.net/installation>
+Download or clone the contents of this repository to a folder named exactly as the package name into the Packages/ folder of ST.
 
 ### Source-code
 
